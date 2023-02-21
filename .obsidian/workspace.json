@@ -1,0 +1,157 @@
+{
+  "main": {
+    "id": "6b38356095fa3a8d",
+    "type": "split",
+    "children": [
+      {
+        "id": "95cb169a466dce23",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8484ccadb2314a4f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/posts/carbs.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c16a8236d872be15",
+    "type": "split",
+    "children": [
+      {
+        "id": "cef3b80c585a5504",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d2f596d6f5209594",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "16d86d0eea6b0a2a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c4c07bfef3ed6af1",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e634da657c6b39a6",
+    "type": "split",
+    "children": [
+      {
+        "id": "defddb3d6db50b03",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b2c9b4c1d543aa8c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "content/posts/carbs.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9abfadcf338d4130",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "content/posts/carbs.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7f25d0e8ad49686c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ed6ae4ee269e7c39",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "content/posts/carbs.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "8484ccadb2314a4f",
+  "lastOpenFiles": [
+    "content/posts/Ai and its problems.md",
+    "565px-Poly-(1-4)-alpha-D-Glucose.svg1.png.md",
+    "content/posts/carbs.md",
+    "Maltodextrin.png",
+    "content/posts/diritti_inviolabili.md"
+  ]
+}

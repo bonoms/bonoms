@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on bonoms</title>
+    <link>https://bonoms.netlify.app/posts/</link>
+    <description>Recent content in Posts on bonoms</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Lorenzo Bonomi</copyright>
+    <lastBuildDate>Tue, 21 Feb 2023 10:54:08 +0200</lastBuildDate><atom:link href="https://bonoms.netlify.app/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to fuel in cycling, mith BUSTED!</title>
+      <link>https://bonoms.netlify.app/posts/carbs/</link>
+      <pubDate>Tue, 21 Feb 2023 10:54:08 +0200</pubDate>
+      
+      <guid>https://bonoms.netlify.app/posts/carbs/</guid>
+      <description>Hi bRo, I&amp;rsquo;m a cyclist and I want to share my thoughts on cyling nutrition, I&amp;rsquo;m not a nutritionist so take everything I say with a bit of salt bRo. I belive there&amp;rsquo;s a poor understanding of this topic across the cycling community, I see many daddys going out for 100k rides without food, and many other atrocities&amp;hellip;
+In this article I will explain why you need to eat way more than what you think.</description>
+    </item>
+    
+    <item>
+      <title>The danger of AI</title>
+      <link>https://bonoms.netlify.app/posts/ai-and-its-problems/</link>
+      <pubDate>Tue, 17 Jan 2023 10:54:08 +0200</pubDate>
+      
+      <guid>https://bonoms.netlify.app/posts/ai-and-its-problems/</guid>
+      <description>Artificial intelligence (AI) is becoming increasingly ubiquitous in many areas of daily life, from speech recognition to self-driving cars. While this technology has the potential to improve the quality of human life in many ways, there are also concerns associated with its use. In particular, there is a growing concern about the negative implications of AI on society and humanity. In this article, we will explore some of the problems associated with AI and how they can be addressed.</description>
+    </item>
+    
+  </channel>
+</rss>
