@@ -2,45 +2,57 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://bonoms.netlify.app/</loc>
+    <loc>https://bonoms.com/</loc>
     <lastmod>2023-02-21T10:54:08+02:00</lastmod>
   </url><url>
-    <loc>https://bonoms.netlify.app/tags/carbs/</loc>
+    <loc>https://bonoms.com/tags/cycling/</loc>
     <lastmod>2023-02-21T10:54:08+02:00</lastmod>
   </url><url>
-    <loc>https://bonoms.netlify.app/tags/cycling/</loc>
+    <loc>https://bonoms.com/posts/powerdata/powerdata/</loc>
     <lastmod>2023-02-21T10:54:08+02:00</lastmod>
   </url><url>
-    <loc>https://bonoms.netlify.app/posts/carbs/</loc>
+    <loc>https://bonoms.com/posts/</loc>
     <lastmod>2023-02-21T10:54:08+02:00</lastmod>
   </url><url>
-    <loc>https://bonoms.netlify.app/tags/nutrition/</loc>
+    <loc>https://bonoms.com/tags/powermeter/</loc>
     <lastmod>2023-02-21T10:54:08+02:00</lastmod>
   </url><url>
-    <loc>https://bonoms.netlify.app/posts/</loc>
+    <loc>https://bonoms.com/tags/science/</loc>
     <lastmod>2023-02-21T10:54:08+02:00</lastmod>
   </url><url>
-    <loc>https://bonoms.netlify.app/tags/</loc>
+    <loc>https://bonoms.com/tags/</loc>
     <lastmod>2023-02-21T10:54:08+02:00</lastmod>
   </url><url>
-    <loc>https://bonoms.netlify.app/tags/ai/</loc>
+    <loc>https://bonoms.com/tags/carbs/</loc>
+    <lastmod>2023-02-05T10:54:08+02:00</lastmod>
+  </url><url>
+    <loc>https://bonoms.com/posts/carbs-intake/</loc>
+    <lastmod>2023-02-05T10:54:08+02:00</lastmod>
+  </url><url>
+    <loc>https://bonoms.com/tags/nutrition/</loc>
+    <lastmod>2023-02-05T10:54:08+02:00</lastmod>
+  </url><url>
+    <loc>https://bonoms.com/tags/ai/</loc>
     <lastmod>2023-01-17T10:54:08+02:00</lastmod>
   </url><url>
-    <loc>https://bonoms.netlify.app/tags/artificialintelligence/</loc>
+    <loc>https://bonoms.com/tags/artificialintelligence/</loc>
     <lastmod>2023-01-17T10:54:08+02:00</lastmod>
   </url><url>
-    <loc>https://bonoms.netlify.app/tags/computer/</loc>
+    <loc>https://bonoms.com/tags/computer/</loc>
     <lastmod>2023-01-17T10:54:08+02:00</lastmod>
   </url><url>
-    <loc>https://bonoms.netlify.app/tags/openai/</loc>
+    <loc>https://bonoms.com/tags/openai/</loc>
     <lastmod>2023-01-17T10:54:08+02:00</lastmod>
   </url><url>
-    <loc>https://bonoms.netlify.app/posts/ai-and-its-problems/</loc>
+    <loc>https://bonoms.com/posts/ai-and-its-problems/ai-and-its-problems/</loc>
     <lastmod>2023-01-17T10:54:08+02:00</lastmod>
   </url><url>
-    <loc>https://bonoms.netlify.app/about/</loc>
-    <priority>0</priority>
+    <loc>https://bonoms.com/about/</loc>
+    <lastmod>2022-11-21T10:54:08+02:00</lastmod>
   </url><url>
-    <loc>https://bonoms.netlify.app/categories/</loc>
+    <loc>https://bonoms.com/about/about/</loc>
+    <lastmod>2022-11-21T10:54:08+02:00</lastmod>
+  </url><url>
+    <loc>https://bonoms.com/categories/</loc>
   </url>
 </urlset>

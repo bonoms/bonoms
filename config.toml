@@ -1,7 +1,7 @@
-baseURL = "https://bonoms.netlify.app/"
+baseURL = "https://bonoms.com/"
 languageCode = "en-us"
-title = "bonoms"
-theme="archie"
+title = "bonoms.com"
+theme = ["archie", "hugo-shortcode-gallery"]
 copyright = "© Lorenzo Bonomi"
 # Code Highlight
 pygmentsstyle = "monokai"
@@ -38,7 +38,7 @@ weight = 2
 
 [[menu.main]]
 name = "About"
-url = "/about"
+url = "/about/about"
 weight = 3
 
 [[menu.main]]
@@ -48,4 +48,4 @@ weight = 4
 
 # Google 
 
-googleAnalyticsID = "G-6ZQEJDLJXN"
+googleAnalyticsID = "G-T6J8GMWTCY"

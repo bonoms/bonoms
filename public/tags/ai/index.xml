@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>ai on bonoms</title>
-    <link>https://bonoms.netlify.app/tags/ai/</link>
-    <description>Recent content in ai on bonoms</description>
+    <title>ai on bonoms.com</title>
+    <link>https://bonoms.com/tags/ai/</link>
+    <description>Recent content in ai on bonoms.com</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Lorenzo Bonomi</copyright>
-    <lastBuildDate>Tue, 17 Jan 2023 10:54:08 +0200</lastBuildDate><atom:link href="https://bonoms.netlify.app/tags/ai/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 17 Jan 2023 10:54:08 +0200</lastBuildDate><atom:link href="https://bonoms.com/tags/ai/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The danger of AI</title>
-      <link>https://bonoms.netlify.app/posts/ai-and-its-problems/</link>
+      <link>https://bonoms.com/posts/ai-and-its-problems/ai-and-its-problems/</link>
       <pubDate>Tue, 17 Jan 2023 10:54:08 +0200</pubDate>
       
-      <guid>https://bonoms.netlify.app/posts/ai-and-its-problems/</guid>
+      <guid>https://bonoms.com/posts/ai-and-its-problems/ai-and-its-problems/</guid>
       <description>Artificial intelligence (AI) is becoming increasingly ubiquitous in many areas of daily life, from speech recognition to self-driving cars. While this technology has the potential to improve the quality of human life in many ways, there are also concerns associated with its use. In particular, there is a growing concern about the negative implications of AI on society and humanity. In this article, we will explore some of the problems associated with AI and how they can be addressed.</description>
     </item>
     

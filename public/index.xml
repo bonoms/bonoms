@@ -1,39 +1,49 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>bonoms</title>
-    <link>https://bonoms.netlify.app/</link>
-    <description>Recent content on bonoms</description>
+    <title>bonoms.com</title>
+    <link>https://bonoms.com/</link>
+    <description>Recent content on bonoms.com</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Lorenzo Bonomi</copyright>
-    <lastBuildDate>Tue, 21 Feb 2023 10:54:08 +0200</lastBuildDate><atom:link href="https://bonoms.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 21 Feb 2023 10:54:08 +0200</lastBuildDate><atom:link href="https://bonoms.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>How to fuel in cycling, mith BUSTED!</title>
-      <link>https://bonoms.netlify.app/posts/carbs/</link>
+      <title>How to analyze cycling power data with science</title>
+      <link>https://bonoms.com/posts/powerdata/powerdata/</link>
       <pubDate>Tue, 21 Feb 2023 10:54:08 +0200</pubDate>
       
-      <guid>https://bonoms.netlify.app/posts/carbs/</guid>
+      <guid>https://bonoms.com/posts/powerdata/powerdata/</guid>
+      <description>Some time ago I made this video, i did it very quickly so quality is not the best i&amp;rsquo;m sorry :</description>
+    </item>
+    
+    <item>
+      <title>How to fuel in cycling, mith BUSTED!</title>
+      <link>https://bonoms.com/posts/carbs-intake/</link>
+      <pubDate>Sun, 05 Feb 2023 10:54:08 +0200</pubDate>
+      
+      <guid>https://bonoms.com/posts/carbs-intake/</guid>
       <description>Hi bRo, I&amp;rsquo;m a cyclist and I want to share my thoughts on cyling nutrition, I&amp;rsquo;m not a nutritionist so take everything I say with a bit of salt bRo. I belive there&amp;rsquo;s a poor understanding of this topic across the cycling community, I see many daddys going out for 100k rides without food, and many other atrocities&amp;hellip;
 In this article I will explain why you need to eat way more than what you think.</description>
     </item>
     
     <item>
       <title>The danger of AI</title>
-      <link>https://bonoms.netlify.app/posts/ai-and-its-problems/</link>
+      <link>https://bonoms.com/posts/ai-and-its-problems/ai-and-its-problems/</link>
       <pubDate>Tue, 17 Jan 2023 10:54:08 +0200</pubDate>
       
-      <guid>https://bonoms.netlify.app/posts/ai-and-its-problems/</guid>
+      <guid>https://bonoms.com/posts/ai-and-its-problems/ai-and-its-problems/</guid>
       <description>Artificial intelligence (AI) is becoming increasingly ubiquitous in many areas of daily life, from speech recognition to self-driving cars. While this technology has the potential to improve the quality of human life in many ways, there are also concerns associated with its use. In particular, there is a growing concern about the negative implications of AI on society and humanity. In this article, we will explore some of the problems associated with AI and how they can be addressed.</description>
     </item>
     
     <item>
-      <title></title>
-      <link>https://bonoms.netlify.app/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Who is bonoms?</title>
+      <link>https://bonoms.com/about/about/</link>
+      <pubDate>Mon, 21 Nov 2022 10:54:08 +0200</pubDate>
       
-      <guid>https://bonoms.netlify.app/about/</guid>
-      <description></description>
+      <guid>https://bonoms.com/about/about/</guid>
+      <description>Bonoms is a guy born in Sondrio, 12 january of 2004.
+Yes that&amp;rsquo;s me.</description>
     </item>
     
   </channel>
