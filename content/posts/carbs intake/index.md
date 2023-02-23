@@ -59,5 +59,4 @@ This mix has the best absorbion rate as the two sugars use different path in the
 
 ![diy](images/527E5F37-81F3-4C1D-8680-9053C0A475D9.jpg)
 
-In conclusion, enjoy riding and eating sugal all day bRO.
-
+In conclusion, enjoy riding and eating sugal all day bRO. Even sucrose is fine, not the best, but does the job.

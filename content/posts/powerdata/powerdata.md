@@ -5,7 +5,7 @@ draft: false
 tags: [cycling, powermeter, science]
 ---
 
-Some time ago I made this video, i did it very quickly so quality is not the best i'm sorry :
+If you want to analyze your power data there's a free online tool called intervals.icu, it iss community based and allows you to do amazing stuff. I made a quick video about it, sorry if quality is not the best. 
 
 {{< youtube id="bxKK6bj_Qmo" >}}
 

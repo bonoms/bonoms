@@ -19,10 +19,14 @@ paginate=3 # articles per page
 # Social Tags
 
 [[params.social]]
+name = "Instagram"
+icon = "instagram"
+url = "https://www.instagram.com/lorenzobonomii/"
+
+[[params.social]]
 name = "GitHub"
 icon = "github"
 url = "https://github.com/bonoms"
-
 
 # Main menu Items
 
